@@ -7,7 +7,6 @@
     padding: 10px;
     color: white;
 }
-
 .dialogsItems .active {
     color: gold;
 }
@@ -19,4 +18,3 @@
 .messages .message {
     color: white;
 }
-
